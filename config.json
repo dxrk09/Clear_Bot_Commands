@@ -1,5 +1,5 @@
 {
-  "guildId": "DISCORD SERVER ID HERE",
-  "clientId": "BOT APPLICATION ID HERE" ,
+  "guildId": "DISCORD SERVER ID",
+  "clientId": "BOT APPLICATION ID" ,
   "token": "YOUR TOKEN HERE"
 }
